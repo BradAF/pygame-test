@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Bradley Furst <bradley.furst@evonik.com>"]
 readme = "README.md"
-packages = [{include = "pygame_test"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
