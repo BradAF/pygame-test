@@ -1,0 +1,3 @@
+# The primary language of the repl. There can be others, though!
+language = "pygame"
+entrypoint = "python game.py"
